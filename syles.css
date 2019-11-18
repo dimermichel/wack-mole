@@ -27,4 +27,13 @@
     height: 50px;
     background-color: black;
     border-radius: 50%;
+    cursor: pointer;
+}
+
+.win {
+    color: green;
+}
+
+.lose {
+    color: red;
 }
